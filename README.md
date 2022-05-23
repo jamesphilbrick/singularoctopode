@@ -1,7 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in making fun/interesting projects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently interested in learning GO to solve programming problems without defaulting to a high-level approach
 - 📫 How to reach me --> jamesedphilbrick@gmail.com OR www.linkedin.com/in/james-philbrick
 
 <!---
